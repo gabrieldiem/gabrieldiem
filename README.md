@@ -2,7 +2,8 @@
 <br>
 
 - 🎓 I’m currently studying Informatics Engineering (<i>Ingeniería en Informática</i>) at the University of Buenos Aires.
-- 🌱 At the moment I'm learning OOP languages and web development.
+- 📚 At the moment I'm learning OOP languages and web development.
+- 🗣 My mother tongue is Spanish but I have demonstrated C1 English level in the Cambridge FCE exam.
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
 
 <br>
