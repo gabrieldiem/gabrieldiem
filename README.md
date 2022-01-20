@@ -1,9 +1,9 @@
 ### 👋  Welcome to my GitHub Profile, I'm Walter Gabriel Diem (walgab) and here you have some useful info about me:
 <br>
 
-- 🎓 I’m currently studying Informatics Engineering (<i>Ingeniería en Informática</i>) at the University of Buenos Aires.
+- 🎓 I’m currently studying Informatics Engineering (<i>Ingeniería en Informática</i>, it's similar to Software Engineering) at the University of Buenos Aires.
 - 📚 At the moment I'm learning OOP languages and web development.
-- 🗣 My mother tongue is Spanish and I have demonstrated C1 English level in the Cambridge FCE exam.
+- 🗣 My mother tongue is Spanish and I've demonstrated C1 English level in the Cambridge FCE exam.
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
 
 <br>
@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walgab&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>These are some of the tools that I have used along my journey:<br>
+<br>These are some of the tools that I've used along my journey:<br>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="C lang." title="C lang." height="50"></a>
 <a href="https://en.wikipedia.org/wiki/Ubuntu"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" title="Ubuntu" height="50"/></a>&nbsp;
