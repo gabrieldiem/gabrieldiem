@@ -1,9 +1,9 @@
 ### 👋  Welcome to my GitHub Profile, I'm Walter Gabriel Diem (walgab) and here you have some useful info about me:
 <br>
 
-- 🎓 I’m currently studying Informatics Engineering (<i>Ingeniería en Informática</i>, it's similar to Software Engineering) at the University of Buenos Aires.
-- 📚 At the moment I'm learning OOP languages and web development.
-- 🗣 My mother tongue is Spanish and I've demonstrated C1 English level in the Cambridge FCE exam.
+- 🎓 I’m currently studying Software Engineering (<i>Ingeniería en Informática</i>) at the Faculty of Engineering of the University of Buenos Aires.
+- 📚 At the moment I'm learning Object Oriented Programming and web development.
+- 🗣 I'm a native Spanish speaker and I've demonstrated C1 English level in the Cambridge FCE exam.
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
 
 <br>
