@@ -6,13 +6,6 @@
 - 🗣 I'm a native Spanish speaker and I've demonstrated C1 English level in the Cambridge FCE exam.
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
 
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walgab&count_private=true&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walgab&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### These are some of the tools that I've used along my journey:
 
 Programming Languages:
@@ -48,3 +41,9 @@ Other tools:
 <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA"><img src="./img/intellij.svg" alt="IntelliJ Idea" title="IntelliJ Idea" height=50></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="./img/markdown.svg" alt="Markdown" title="Markdown" height="50"/></a>&nbsp;
 <a href="https://www.oracle.com/java/technologies/javase/javafxscenebuilder-info.html"><img src="./img/scenebuilder.png" alt="Scene Builder" title="Scene Builder" height=50></a>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walgab&count_private=true&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walgab&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
