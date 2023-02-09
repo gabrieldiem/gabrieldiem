@@ -1,4 +1,4 @@
-### 👋  Welcome to my GitHub Profile, I'm Walter Gabriel Diem (walgab) and here you have some useful info about me:
+### 👋  Welcome to my GitHub Profile, I'm Gabriel Diem (@gabrieldiem) and here you have some useful info about me:
 <br>
 
 - 🎓 I’m currently studying Software Engineering (<i>Ingeniería en Informática</i>) at the Faculty of Engineering of the University of Buenos Aires.
@@ -44,6 +44,6 @@ Other tools:
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walgab&count_private=true&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldiem&count_private=true&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walgab&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiem&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
