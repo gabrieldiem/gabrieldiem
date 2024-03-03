@@ -4,7 +4,7 @@
 - 🎓 Currently studying Software Engineering (<i>Ingeniería en Informática</i>) at the Faculty of Engineering of the University of Buenos Aires.
 - 📚 At the moment I'm all about the AI Engineering space (machine learning, RAG - Retreival Augmented Generation, LLMs - Large Language Models, etc).
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
-- 🗣 I'm a native Spanish speaker with C1 English level in the Cambridge FCE exam.
+- 🗣 Native Spanish speaker with C1 English level in the Cambridge FCE exam.
 
 ### These are some of the tools that I've used along my journey:
 
