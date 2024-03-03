@@ -1,10 +1,10 @@
-### 👋  Welcome to my GitHub Profile, I'm Gabriel Diem (@gabrieldiem) and here you have some useful info about me:
+### 👋  Welcome to my GitHub Profile, I'm Gabriel Diem (@gabrieldiem), here you have some useful info about me:
 <br>
 
-- 🎓 I’m currently studying Software Engineering (<i>Ingeniería en Informática</i>) at the Faculty of Engineering of the University of Buenos Aires.
-- 📚 At the moment I'm learning Object Oriented Programming and web development.
-- 🗣 I'm a native Spanish speaker and I've demonstrated C1 English level in the Cambridge FCE exam.
+- 🎓 Currently studying Software Engineering (<i>Ingeniería en Informática</i>) at the Faculty of Engineering of the University of Buenos Aires.
+- 📚 At the moment I'm all about the AI Engineering space (machine learning, RAG - Retreival Augmented Generation, LLMs - Large Language Models, etc).
 - 👔 Here is my <a href="https://www.linkedin.com/in/gabriel-diem/">LinkedIn</a> if you want to contact me.
+- 🗣 I'm a native Spanish speaker with C1 English level in the Cambridge FCE exam.
 
 ### These are some of the tools that I've used along my journey:
 
@@ -43,7 +43,5 @@ Other tools:
 <a href="https://www.oracle.com/java/technologies/javase/javafxscenebuilder-info.html"><img src="./img/scenebuilder.png" alt="Scene Builder" title="Scene Builder" height=50></a>
 
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldiem&count_private=true&show_icons=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiem&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
