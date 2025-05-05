@@ -43,7 +43,6 @@ Other tools:
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./img/bash.svg" alt="Bash" title="Bash" height="50"/></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="./img/vscode.svg" alt="VS Code" title="VS Code" height=50></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA"><img src="./img/intellij.svg" alt="IntelliJ Idea" title="IntelliJ Idea" height=50></a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/Markdown"><img src="./img/markdown.svg" alt="Markdown" title="Markdown" height="50"/></a>&nbsp;
 <a href="https://www.oracle.com/java/technologies/javase/javafxscenebuilder-info.html"><img src="./img/scenebuilder.png" alt="Scene Builder" title="Scene Builder" height=50></a>
 
 <br>
