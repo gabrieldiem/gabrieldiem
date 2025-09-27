@@ -1,6 +1,6 @@
 # Gabriel Diem | AI & Software Engineer
 
-**AI & Software Engineer | Software Engineering Student**
+**AI Engineer @ Auronix | Software Engineer | Software Engineering Student**
 
 Currently completing my final year in Software Engineering (*Ingeniería en Informática*) at the Faculty of Engineering, University of Buenos Aires. I specialize in web development and AI engineering, with particular focus on machine learning, RAG (Retrieval Augmented Generation), and Large Language Models.
 
