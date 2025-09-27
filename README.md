@@ -1,4 +1,4 @@
-# Gabriel Diem | AI & Software Engineer
+# Gabriel Diem | AI Engineer | Software Engineer
 
 **AI Engineer @ Auronix | Software Engineer | Software Engineering Student**
 
