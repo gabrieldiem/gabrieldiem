@@ -1,9 +1,9 @@
 # Gabriel Diem  
 ## AI Engineer · Distributed Systems · LLM Platforms
 
-**AI Engineer** building **production‑ready LLM systems and distributed backends** that scale beyond demos.
+AI Engineer building **production‑ready LLM systems** and **distributed backends** that scale beyond demos.
 
-At **Auronix**, I develop **conversational commerce AI agents**, combining **LLMs, RAG pipelines, and distributed systems** with a focus on **scalability, reliability, and cost efficiency**. Previously at **IBM Client Engineering**, I co‑created **generative AI solutions** with real clients. I also serve as a **Teaching Assistant** at the **University of Buenos Aires**, mentoring students in **software architecture and engineering practices**.
+I work on conversational AI systems that combine LLMs, RAG pipelines, and distributed architectures, with a strong focus on scalability, reliability, observability, and cost efficiency. I have experience delivering generative AI solutions in real production environments and mentoring others in software architecture and engineering practices as a teaching assistant at the University of Buenos Aires (Faculty of Engineering).
 
 ## 🔗 Connect
 
