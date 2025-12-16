@@ -1,8 +1,9 @@
-# Gabriel Diem | AI Engineer | Software Engineer
+# Gabriel Diem  
+## AI Engineer · Distributed Systems · LLM Platforms
 
-**AI Engineer @ Auronix | Software Engineer | Software Engineering Student**
+**AI Engineer** building **production‑ready LLM systems and distributed backends** that scale beyond demos.
 
-Currently completing my final year in Software Engineering (*Ingeniería en Informática*) at the Faculty of Engineering, University of Buenos Aires. I specialize in web development and AI engineering, with particular focus on machine learning, RAG (Retrieval Augmented Generation), and Large Language Models.
+At **Auronix**, I develop **conversational commerce AI agents**, combining **LLMs, RAG pipelines, and distributed systems** with a focus on **scalability, reliability, and cost efficiency**. Previously at **IBM Client Engineering**, I co‑created **generative AI solutions** with real clients. I also serve as a **Teaching Assistant** at the **University of Buenos Aires**, mentoring students in **software architecture and engineering practices**.
 
 ## 🔗 Connect
 
@@ -12,52 +13,65 @@ Currently completing my final year in Software Engineering (*Ingeniería en Info
 
 ## 🌐 Languages
 
-- **English**: C1 Level (Cambridge FCE Certified)
-- **Spanish**: Native
+- **Spanish**: Native  
+- **English**: C1 (Cambridge FCE)
 
-### Programming Languages
+## 🧠 Core Focus Areas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Large Language Models (LLMs)**
+- **Retrieval‑Augmented Generation (RAG)**
+- **Distributed Systems & System Architecture**
+- **Conversational AI & AI Agents**
+- **Scalable, Observable AI Platforms**
+
+## Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frameworks & Libraries
+## AI / LLM Tooling
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-1976D2?style=for-the-badge&logo=optuna&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-006400?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
 
-### Technologies & Tools
+## Backend, Distributed Systems & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-2F4F4F?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Statistics
+## Engineering Practices
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiem&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-006400?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-8B0000?style=for-the-badge)
+![Automated Testing](https://img.shields.io/badge/Automated%20Testing-4682B4?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎯 Current Focus
+## GitHub Stats
 
-- **AI Engineering**: Machine Learning, RAG systems, and LLM implementation
-- **Web Development**: Full-stack applications with modern frameworks
-- **Academic Excellence**: Completing Software Engineering degree
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiem&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 What I’m Interested In
+
+- AI platform engineering
+- Distributed LLM systems
+- Scalable RAG architectures
+- AI observability & reliability
+- Systems that blend AI, backend, and product
 
 ---
 
-*Open to collaboration opportunities and innovative projects.*
+*Always open to collaboration on challenging AI and distributed systems projects.*
